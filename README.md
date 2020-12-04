@@ -1,1 +1,1 @@
-# 20.-Operadores_de_asignacion_python
+Este programa muestra el uso de operadores de asignacion.
